@@ -12,6 +12,7 @@ This project is a beginner-friendly stock analysis using Python and Jupyter note
   1.	Clone this repository: git clone https://github.com/ssreeniv10/Beginner-Stock-Analysis.git
   2.	Navigate to the folder and open Jupyter Notebook.
   3.	Install required libraries (if not installed).
-  4.    Run the notebook and experiment with your own dataset!
+  4.	Run the notebook and experiment with your own dataset!
+
 
  
